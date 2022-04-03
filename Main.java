@@ -1,6 +1,4 @@
 // Hangman Game by Suraj Vaghela
-// 3/1/22 
-// Period 3
 
 // Import
 import java.util.*;
